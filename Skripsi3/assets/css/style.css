@@ -60,3 +60,10 @@ canvas {
 a > button.btn{
   margin-bottom: 10px;
 }
+
+#footer {
+  position: absolute;
+  bottom: 0;
+  left: 35%;
+  right: 35%;
+}
