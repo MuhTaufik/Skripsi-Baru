@@ -23,7 +23,7 @@ $(document).ready(function () {
         //console.log(offsetLeft, offsetTop)
         var x = parseInt(e.pageX - offsetLeft);
         var y = parseInt(e.pageY - offsetTop);
-        console.log("COORDINATE: ", x, ",", y);
+        // console.log("COORDINATE: ", x, ",", y);
 
         var width = ctx.canvas.clientWidth;
         var height = ctx.canvas.clientWidth;
